@@ -37,4 +37,5 @@ Honduras · Colombia · Ecuador · Perú · México · Nicaragua
 6. Consultas SQL con CASE WHEN y GROUP BY
 
 ## Autora
-Stephany — Medellín, Colombia
+Stephany Carrasco Sardon 
+— Medellín, Colombia
